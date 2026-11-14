@@ -1,1 +1,10 @@
-
+{
+  "name": "ReaCut",
+  "short_name": "ReaCut",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#121212",
+  "theme_color": "#121212"
+}
